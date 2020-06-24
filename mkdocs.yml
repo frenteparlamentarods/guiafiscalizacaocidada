@@ -1,0 +1,6 @@
+site_name: Guia de Fiscalização Cidadã
+nav:
+  - Home: index.md
+  - O Guia: guia.md
+  - Sobre: sobre.md
+theme: readthedocs
