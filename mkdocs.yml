@@ -1,6 +1,15 @@
 site_name: Guia de Fiscalização Cidadã
 nav:
   - Home: index.md
-  - O Guia: guia.md
+  - 1. Por que fiscalizar?: 1-porque.md
+  - 2. O que olhar?: 2-oque.md
+  - 3. Onde pesquisar?: 3-onde.md
   - Sobre: sobre.md
-theme: readthedocs
+theme:
+  name: material
+  language: pt
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - admonition
