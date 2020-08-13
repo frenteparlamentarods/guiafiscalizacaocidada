@@ -1,7 +1,7 @@
 # Monitorando as Compras Públicas da Covid-19
 ## Guia de Fiscalização Cidadã
 
-![head](/img/image1.png)
+![head](img/image1.png)
 
 ## POR QUE FISCALIZAR
 
