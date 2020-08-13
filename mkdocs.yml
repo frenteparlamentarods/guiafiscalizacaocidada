@@ -1,4 +1,4 @@
-site_name: Guia de Fiscalização Cidadã
+site_name: Monitorando as Compras Públicas da Covid-19
 nav:
   - Home: index.md
   - 1. Por que fiscalizar?: 1-porque.md
@@ -13,3 +13,4 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: true
   - admonition
+  - attr_list
