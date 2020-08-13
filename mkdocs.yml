@@ -4,10 +4,13 @@ nav:
   - 1. Por que fiscalizar?: 1-porque.md
   - 2. O que olhar?: 2-oque.md
   - 3. Onde pesquisar?: 3-onde.md
+  - 4. Como informar e cobrar?: 4-comocobrar.md
+  - Glossário: glossario.md
   - Sobre: sobre.md
 theme:
   name: material
   language: pt
+  logo: img/logo.png
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true

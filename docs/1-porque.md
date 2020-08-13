@@ -3,7 +3,7 @@
 
 ![head](/img/image1.png)
 
-## PORQUE FISCALIZAR
+## POR QUE FISCALIZAR
 
 A pandemia decorrente do novo coronavírus (Covid-19) obrigou vários países, inclusive o Brasil, a adotarem medidas necessárias ao enfrentamento da crise sanitária instalada. Uma dessas medidas é o chamado reconhecimento de estado de **calamidade pública** (SANFONA 1).
 
