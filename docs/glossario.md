@@ -1,5 +1,4 @@
-## GLOSSÁRIO
-
+# GLOSSÁRIO
 
 **Administração Pública Direta**: É o conjunto de Órgãos Públicos que fazem parte da estrutura do Poder Executivo, como os as Prefeituras, Secretarias ou Ministérios. 
 
