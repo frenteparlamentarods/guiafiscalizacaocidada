@@ -2,7 +2,6 @@
 
 Os órgãos públicos tendem a publicar informações em diversos canais, que nem sempre estão reunidos em um mesmo local. Essa dispersão de informações acaba tornando a tarefa de buscar dados mais complexa, mas não desista! 
 Listamos aqui as principais fontes oficiais para você buscar dados sobre as contratações públicas emergenciais, e o que você pode encontrar em cada uma delas.
-(ESQUEMA DE SANFONA)
 
 ### SITES INSTITUCIONAIS
 
@@ -12,10 +11,14 @@ Listamos aqui as principais fontes oficiais para você buscar dados sobre as con
 
 **Limites e dificuldades:** Os sites podem estar descumprindo a LAI e não publicar todas essas informações. Além disso, as informações podem estar dispersas em outros canais (como os listados aqui). Por fim, um limite importante é o grau de detalhamento: nem todos os órgãos públicos fornecem informações pormenorizadas, podendo, por exemplo, apresentar dados de despesas agrupadas por rubrica orçamentária. 
 
-**Como acessar:** A busca no Google pelo site institucional é a forma mais rápida de chegar até ele. Em geral,  
+**Como acessar:** A busca no Google pelo site institucional é a forma mais rápida de chegar até ele. 
 
-Exemplo: 
-NÃO ENCONTROU? - LAI E TCE
+**Exemplo:** [http://www.ribeiraopreto.sp.gov.br/portal/](http://www.ribeiraopreto.sp.gov.br/portal/)
+
+
+!!! info ""
+    **Não encontrou as informações e dados das contratações no site da sua cidade?**
+    Veja a seção abaixo, onde você vai conhecer melhor sobre a lei de acesso à informação - LAI e o trabalho do Tribunal de Contas do Estado.
 
 ### SITES ESPECIAIS SOBRE A COVID-19
 
@@ -25,7 +28,7 @@ NÃO ENCONTROU? - LAI E TCE
 
 **Limites e dificuldades:** Por vezes todas essas informações não estão concentradas em apenas um portal, estando dispersas nos Portais institucionais da Secretaria da Saúde, nos Portais de Transparência, entre outros. Outras dificuldades verificadas são a desatualização, incompletude das informações e a impossibilidade de download dos dados em formato aberto.
 
-Exemplo: https://www.saopaulo.sp.gov.br/coronavirus/transparencia/
+**Exemplo:** [http://www.sorocaba.sp.gov.br/coronavirus/](http://www.sorocaba.sp.gov.br/coronavirus/)
 
 ### PORTAIS DA TRANSPARÊNCIA 
 
@@ -35,19 +38,19 @@ Exemplo: https://www.saopaulo.sp.gov.br/coronavirus/transparencia/
 
 **Limites e dificuldades:** Como é um portal que reúne as informações gerais dos órgãos do governo, por vezes, pode não estar detalhada ou setorializada. Além disso, é comum a impossibilidade de realizar download, das informações divulgadas especialmente em formato aberto. A linguagem utilizada pode ser muito técnica, com o uso de siglas, o que dificulta a compreensão do que de fato aqueles dados significam. As informações podem ser desatualizadas e incompletas. Outra dificuldade comum que se verifica é a gestão dos portais por empresas contratadas. 
 
-Exemplo:  
+**Exemplo:** [https://transparencia.campinas.sp.gov.br/](https://transparencia.campinas.sp.gov.br/)  
 
 ### DIÁRIOS OFICIAIS
 
 **O que é:** são os veículos que órgãos públicos — dos poderes executivo, legislativo e judiciário, nos diferentes níveis — utilizam para dar publicidade a seus atos administrativos. Em um processo de licitação, é obrigatória a publicação de documentos em algumas das fases, mesmo em compras emergenciais (o que não acontece, necessariamente, em portais da transparência). Por isso, essa é a fonte mais importante para localizar informação sobre o tema.
 
-**O que você pode encontrar:** Chamamentos públicos; editais de licitação; extrato de contratação (um resumo contendo fornecedor, valor, objeto e data da aquisição). 
+**O que você pode encontrar:** Chamamentos públicos; editais de licitação; extrato de contratação (um resumo contendo fornecedor, valor, objeto e data da aquisição).  
 
-**Como acessar:** Não existe uma lista com os links de todos os diários oficiais — algumas cidades fazem publicação conjunta, outras optam por publicar o próprio diário. [falar de serviços de raspagem/querido diário]
+**Como acessar:** Não existe uma lista com os links de todos os diários oficiais — algumas cidades fazem publicação conjunta, outras optam por publicar o próprio diário. Um projeto da OKBR está buscando automatizar a coleta de centenas de diários do país, e em breve disponibilizará a possibilidade de busca de forma centralizada: [https://github.com/okfn-brasil/diario-oficial](https://github.com/okfn-brasil/diario-oficial).  
 
-**Limites e dificuldades:** o formato de publicação (quase sempre um PDF) não ajuda na busca estruturada de informação. Alguns sites sequer permitem busca por palavra-chave. Outro problema 
+**Limites e dificuldades:** o formato de publicação (quase sempre um PDF) não ajuda na busca estruturada de informação. Alguns sites sequer permitem busca por palavra-chave.
 
-Exemplo: Imprensa Oficial do Estado de São Paulo, que também publica a edição do Diário Oficial da Cidade de São Paulo:  https://www.imprensaoficial.com.br/
+**Exemplo:** Imprensa Oficial do Estado de São Paulo, que também publica a edição do Diário Oficial da Cidade de São Paulo:  [https://www.imprensaoficial.com.br/](https://www.imprensaoficial.com.br/)
 
 ### PORTAIS DE DADOS ABERTOS
 
@@ -55,41 +58,29 @@ Exemplo: Imprensa Oficial do Estado de São Paulo, que também publica a ediçã
 
 **O que você pode encontrar:** informações gerais contidas em bases de dados do governo, em seus diferentes órgãos, que são utilizadas para o serviço público. Podem variar desde os dados de cadastro imobiliário até informações sobre programas sociais.
 
-**Limites e dificuldades:** apesar da LAI prever, em seu art. 8o, que os sites oficiais devem possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, bem como o acesso automatizado por sistemas externos em formatos abertos, entende-se como uma mera indicação para adaptação dos portais da transparência, sem exigência legal para a criação de portais específicos para acesso a dados abertos.
+**Limites e dificuldades:** apesar da LAI prever, em seu art. 8o, que os sites oficiais devem possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, bem como o acesso automatizado por sistemas externos em formatos abertos, não há m exigência legal para a criação de portais específicos de dados abertos. O formato demanda conhecimentos básicos de softwares de planilha ou mesmo programação. Quem não é familiarizado com o manejo de dados, pode ter dificuldade para leitura e interpretação das informações. A Escola de Dados disponibiliza [tutoriais](https://escoladedados.org/tutoriais/) para iniciar nesse universo.
 
-Exemplo: http://dados.prefeitura.sp.gov.br/pt_PT/
-
-### REPOSITÓRIOS DE DADOS
-
-**O que é:**
-**O que você pode encontrar:**
-**Limites e dificuldades:**
-
-Exemplo:  
-
-### PREGÕES ELETRÔNICOS 
-
-**O que é:**
-**O que você pode encontrar:**
-**Limites e dificuldades:**
-
-Exemplo: 
+**Exemplo:** [http://dados.prefeitura.sp.gov.br/](http://dados.prefeitura.sp.gov.br/)
 
 ### JUNTA COMERCIAL
 
-**O que é:**
-**O que você pode encontrar:**
-**Limites e dificuldades:**
+**O que é:** o órgão responsável pelo registro, fé pública e publicidade dos documentos arquivados pelos empresários, sociedades empresárias e sociedades cooperativas no Estado. Em São Paulo, é a Junta Comercial do Estado de São Paulo - Jucesp.
 
-Exemplo: 
+**O que você pode encontrar:** Certidões e ficha cadastral completa das empresas registradas no estado. Por exemplo, é possível obter um documento com todas as alterações de endereço, de sócios e de objeto social desde 1992, no caso de São Paulo. 
+
+**Limites e dificuldades:** Nem todos os estados possuem sua documentação digitalizada como o estado de São Paulo. Na Jucesp, é preciso fazer um cadastro e realizar login para obter os documentos, e os “Captchas” impedem o uso de códigos de programação para fazer consultas automáticas.
+
+**Exemplo:** [https://www.jucesponline.sp.gov.br](https://www.jucesponline.sp.gov.br)
 
 ### RECEITA FEDERAL
 
-**O que é:**
-**O que você pode encontrar:**
-**Limites e dificuldades:**
+**O que é:** Órgão federal vinculado ao Ministério da Economia que dispõe dos dados públicos mais confiáveis e completos sobre todas as empresas brasileiras e seus representantes legais.
 
-Exemplo: 
+**O que você pode encontrar:** a partir de um CNPJ, você pode obter a ficha que indica uma série de informações importantes sobre a empresa: situação cadastral (ativa/inapta/cancelada), nome empresarial e nome fantasia, atividades econômicas principal e secundárias e endereço. Abaixo da certidão, o botão “QSA” permite consultar o Quadro de Sócios Administradores da empresa. Também há bases de dados completas para baixar.
+
+**Limites e dificuldades:** É necessário saber o número de CNPJ para fazer a consulta. As bases para download são bastante completas, porém em formato que somente pessoas com habilidades em programação conseguem acessar. O projeto Brasil.io faz essa coleta e disponibiliza em formato mais acessível para atenuar esse problema:  [https://brasil.io/dataset/socios-brasil/socios/](https://brasil.io/dataset/socios-brasil/socios/). 
+
+**Endereço:** [http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp](http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp)
 
 ### E SE VOCÊ NÃO ENCONTROU O QUE PRECISAVA EM NENHUMA DESSAS FONTES? 
 
@@ -148,9 +139,13 @@ Na ausência de canais para registro de recurso do pedido de acesso à informaç
 ### TRIBUNAL DE CONTAS DO ESTADO
 
 **O que é:**  o Tribunal de Contas partilha com o Poder Legislativo a atividade de controle da gestão pública. É um órgão que promove o controle financeiro e patrimonial do governo, em todos os níveis da federação, fiscalizando e acompanhando os gastos públicos para avaliar a qualidade e o resultado dos programas.
-O que você pode encontrar: despesas dos municípios, relação de fornecedores, pareceres sobre as contas municipais.
 
-**Limites e dificuldades:**
+**O que você pode encontrar:** despesas dos municípios, relação de fornecedores, pareceres sobre as contas municipais, número de leitos para atendimento da Covid-19, repasses estaduais e federais.
 
-Exemplo: o Tribunal de Contas do Estado de São Paulo consolida as informações de todos os municípios paulistas, com exceção da capital, que possui um Tribunal de Contas específico. 
-https://transparencia.tce.sp.gov.br/  -> Município -> Despesas
+**Limites e dificuldades:** o Tribunal de Contas do Estado de São Paulo conta com as informações fornecidas pelas prefeituras. Nesse momento os auditores do TCE-SP não conseguem fazer a fiscalização no local.
+
+**Exemplo:** o Tribunal de Contas do Estado de São Paulo consolida as informações de todos os municípios paulistas, com exceção da capital, que possui um Tribunal de Contas específico. 
+
+* [https://transparencia.tce.sp.gov.br/](https://transparencia.tce.sp.gov.br/)  -> Município -> Despesas
+
+* [Painel de Gestão de Enfrentamento ao Covid-19](https://painel.tce.sp.gov.br/pentaho/api/repos/%3Apublic%3Acovid%3Ahome.wcdf/generatedContent?userid=anony&password=zero)
